@@ -1,4 +1,4 @@
-![logo](https://github.com/DIKSHITS/DIKSHITS/blob/main/download.jpeg)
+
 <h1 align="center">Hi 👋, I'm Dikshit Raj</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">

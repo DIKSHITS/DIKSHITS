@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dikshit Raj</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://devmountain.com/wp-content/uploads/2019/04/Programmer-1406459181.jpeg">
+<img align="center" alt="coding" width="400" src="https://zight.com/wp-content/uploads/2018/06/What-is-GitHub-and-Why-Should-My-Business-Use-It.jpg" width="400" height=400>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshits&label=Profile%20views&color=0e75b6&style=flat" alt="dikshits" /> </p>

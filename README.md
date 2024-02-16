@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dikshit Raj</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fba71fe69-8ced-4945-91ce-0c5016f8766c.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1>
+<img align="center" alt="coding" width="400" src="https://www.shutterstock.com/image-illustration/coding-programming-developing-typing-script-260nw-2258898245.jpg>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshits&label=Profile%20views&color=0e75b6&style=flat" alt="dikshits" /> </p>
